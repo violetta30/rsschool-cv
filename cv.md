@@ -1,24 +1,27 @@
 # Violet Tihonova
-## CONTACT
+### FRONT-END DEVELOPER
+### CONTACT
 **email:** vgarbacevic@gmail.com  
 **telegram:** @VioletTih  
-**GitHub** [violetta30](https://github.com/violetta30)
+**GitHub:** [violetta30](https://github.com/violetta30)
 
 ### ABOUT MYSELF  
 
-Love studing and programming. Use parental leave to upgrade my programming skills. Want to try working remotedly or even work as a freelancer.  
+Love studing and programming. Use parental leave to upgrade my programming skills. Want to try working remotedly or even work as a freelancer! :cowboy_hat_face:    
 
-## EDUCATION  
+###
+###
+### EDUCATION  
 #### **Academy of Public Administration (2011-2016)**   
--manager-economist of information systems  
- -C#  
- -MSSQL  
- -OOP  
- -etc.  
+- manager-economist of information systems  
+ - C#  
+ - MSSQL  
+ - OOP  
+ - etc.  
 #### **IT Academy (2019)** 
--html, css, javascript course  
+- \"Website development using html, css and javascript\" (basic course)
 
-## SKILLS
+### SKILLS
 ASP.Net 
 C#  
 Windows Forms  
@@ -31,8 +34,8 @@ angular * *(basic)* *
 GIT (SmartGit, GitBash)
 avocode  
 
-## LANGUAGES
+### LANGUAGES
 
 Russian * *(native)* *  
 English * *(Streamline test results - CEFR B1)* *  
-Spanish  
+Spanish * *(Fluent speach without strucktured grammar knowledge)* * 

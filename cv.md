@@ -1,14 +1,14 @@
 # Violet Tihonova
-##CONTACT
+## CONTACT
 **email:** vgarbacevic@gmail.com
 **telegram:** @VioletTih
 [github] (https://github.com/violetta30)
 
-##ABOUT MYSELF
+## ABOUT MYSELF  
 
-Love studing and programming. Use parental leave to upgrade my programming skills. Want to try working remotedly or even work as a freelancer.
+Love studing and programming. Use parental leave to upgrade my programming skills. Want to try working remotedly or even work as a freelancer.  
 
-##EDUCATION
+## EDUCATION  
 **Academy of Public Administration (2011-2016)** 
 -manager-economist of information systems
  -C#
@@ -18,7 +18,7 @@ Love studing and programming. Use parental leave to upgrade my programming skill
 **IT Academy (2019)** 
 -html, css, javascript course
 
-##SKILLS
+## SKILLS
 ASP.Net 
 C#
 Windows Forms
@@ -30,7 +30,7 @@ js * *(basic)* *
 angular * *(basic)* *
 avocode
 
-##LANGUAGES
+## LANGUAGES
 
 Russian * *(native)* *
 English * *(Streamline test results - CEFR B1)* *

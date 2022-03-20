@@ -1,16 +1,16 @@
-# Violet Tihonova
+![image alt >](/CV_foto.jpg)
+# Violet Tihonova 
 ### FRONT-END DEVELOPER
 ### CONTACT
 **email:** vgarbacevic@gmail.com  
 **telegram:** @VioletTih  
 **GitHub:** [violetta30](https://github.com/violetta30)
+**Discort:** Violet3010#5048
 
 ### ABOUT MYSELF  
 
 Love studing and programming. Use parental leave to upgrade my programming skills. Want to try working remotedly or even work as a freelancer! :cowboy_hat_face:    
 
-###
-###
 ### EDUCATION  
 #### **Academy of Public Administration (2011-2016)**   
 - manager-economist of information systems  
@@ -32,6 +32,8 @@ CSS
 js * *(basic)* *  
 angular * *(basic)* *  
 GIT (SmartGit, GitBash)
+Visual Studio Community
+Visual Studio Code
 avocode  
 
 ### LANGUAGES

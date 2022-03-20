@@ -1,4 +1,4 @@
-![image alt >](/CV_foto.jpg)
+![image alt >](/CV_foto.jpg =x50)
 # Violet Tihonova 
 ### FRONT-END DEVELOPER
 ### CONTACT

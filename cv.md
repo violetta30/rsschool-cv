@@ -40,6 +40,21 @@ avocode
 
 ### CODE SAMPLES  
 
+##### Codewars KATA Array.diff
+
+Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result. It should remove all values from list a, which are present in list b keeping their order.  
+```javascript
+arrayDiff([1,2],[1]) == [2]  
+```
+If a value is present in b, all of its occurrences must be removed from the other.   
+###### Solution:   
+```javascript
+function array_diff(a, b) {
+  return a.filter(e => !b.includes(e));
+}
+```
+
+
 ##### Typescript code of header block:  
 ```typescript
 <div class="darkBlock"></div>
@@ -90,6 +105,10 @@ header {
 ### WORK EXPERIENCE
 ###### August 2016 - March 2020 | **National Center Of Legal Information**
 Most of time I worked as a .Net + MSSQL developer on the interior projects of my organization. Than I was suggested to study at the IT Academy on basic front-end course and try to work as a junior front-end developer in angular project and in other project, that was based on Bootstrap. From that time I understood that want to develop in front-end or to be in future a full stack developer. 
+
+### MY PROJECTS
+
+Unfortunately can`t show my work prjects because they were made for internal use of NCLI. So, I leave link to my [RSSchool CV project](https://github.com/violetta30/rsschool-cv).
 
 ### LANGUAGES
 

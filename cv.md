@@ -108,7 +108,7 @@ Most of time I worked as a .Net + MSSQL developer on the interior projects of my
 
 ### MY PROJECTS
 
-Unfortunately can`t show my work prjects because they were made for internal use of NCLI. So, I leave link to my [RSSchool CV project](https://github.com/violetta30/rsschool-cv).
+Unfortunately I can`t show my work prjects because they were made for internal use of NCLI. So, I leave link to my [RSSchool CV project](https://github.com/violetta30/rsschool-cv).
 
 ### LANGUAGES
 
